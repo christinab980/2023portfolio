@@ -529,7 +529,7 @@ section {
 
 .about .image {
   background: url("../img/me_cartoon_03.png") center center no-repeat;
-  background-size: cover;
+  background-size: contain;
   min-height: 400px;
 }
 
