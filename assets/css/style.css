@@ -565,8 +565,15 @@ section {
   gap: 10px;
 }
 
-.skills-icon span {
+.skills-text {
+  text-align: center;
+  padding: 10px;
+  font-weight: 400;
+}
 
+.skills-text-photoshop {
+  margin-left: 10px;
+  margin-top: -10px;
 }
 
 .skills-icon img {
@@ -596,12 +603,14 @@ section {
 }
 
 .ps-icon img {
+  margin-left: 10px;
   height: 125px;
 
 }
 
 .illusrator-icon img {
   margin-top: 13px;
+  margin-left: 10px;
 }
 
 .css-icon img {
